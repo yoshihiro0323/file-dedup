@@ -1,5 +1,7 @@
 # file-dedup
 
+[English](/README.md)
+
 ファイルの重複を検出し、削除候補を提案するmacOS用のツールです。
 
 ## 概要
